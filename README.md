@@ -1,0 +1,2 @@
+wotlk_globalwow
+===============
