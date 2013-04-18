@@ -14,6 +14,7 @@ set(scripts_STAT_SRCS
   Custom/pvp_title_system.cpp
   Custom/blood_money_npc.cpp
   Custom/custom_event_commands.cpp
+  Custom/buff_command.cpp
 )
 
 message("  -> Prepared: Custom")

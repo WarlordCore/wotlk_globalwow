@@ -1294,6 +1294,7 @@ void AddSC_Duel_Reset();
 void AddSC_TitleNpc();
 void AddSC_npc_blood_money();
 void AddSC_emcommands();
+void AddSC_buffcommand();
 #endif
 
 void AddCustomScripts()
@@ -1304,5 +1305,6 @@ void AddCustomScripts()
 	AddSC_TitleNpc();
 	AddSC_npc_blood_money();
 	AddSC_emcommands();
+	AddSC_buffcommand();
 #endif
 }
