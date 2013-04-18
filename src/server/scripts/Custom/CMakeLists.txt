@@ -10,6 +10,9 @@
 
 set(scripts_STAT_SRCS
   ${scripts_STAT_SRCS}
+  Custom/duel_reset_script.cpp
+  Custom/pvp_title_system.cpp
+  Custom/blood_money_npc.cpp
 )
 
 message("  -> Prepared: Custom")
