@@ -1293,6 +1293,7 @@ void AddBattlegroundScripts()
 void AddSC_Duel_Reset();
 void AddSC_TitleNpc();
 void AddSC_npc_blood_money();
+void AddSC_emcommands();
 #endif
 
 void AddCustomScripts()
@@ -1302,5 +1303,6 @@ void AddCustomScripts()
 	AddSC_Duel_Reset();
 	AddSC_TitleNpc();
 	AddSC_npc_blood_money();
+	AddSC_emcommands();
 #endif
 }
