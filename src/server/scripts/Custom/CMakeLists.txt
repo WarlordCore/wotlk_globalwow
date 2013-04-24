@@ -10,6 +10,9 @@
 
 set(scripts_STAT_SRCS
   ${scripts_STAT_SRCS}
+	Custom/blood_money_npc.cpp
+	Custom/duel_reset_script.cpp
+	Custom/pvp_title_system.cpp
 	Custom/Transmogrification.h
 	Custom/Transmogrification.cpp
 )
