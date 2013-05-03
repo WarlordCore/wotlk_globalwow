@@ -1290,7 +1290,6 @@ void AddBattlegroundScripts()
 
 #ifdef SCRIPTS
 /* This is where custom scripts' loading functions should be declared. */
-void AddSC_npc_blood_money();
 void AddSC_Duel_Reset();
 void AddSC_TitleNpc();
 void AddSC_NPC_Transmogrify();
@@ -1300,7 +1299,6 @@ void AddCustomScripts()
 {
 #ifdef SCRIPTS
     /* This is where custom scripts should be added. */
-	AddSC_npc_blood_money();
 	AddSC_Duel_Reset();
 	AddSC_TitleNpc();
     AddSC_NPC_Transmogrify();
